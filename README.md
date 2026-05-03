@@ -16,3 +16,6 @@ Interactive Excel dashboard analyzing customer behavior and sales performance.
 
 ## Download Dashboard
 https://docs.google.com/spreadsheets/d/15-8EulOi8ffKx_-K0PoTJYQJaWGmKG1G/edit?usp=drive_link&ouid=114683964674791582400&rtpof=true&sd=true
+
+## Dashboard Preview
+![Dashboard](dashboard$.png)
